@@ -22,7 +22,7 @@ This project is a privacy-conscious, public version of a Cargills grocery shop s
 
 1. **Scrape Prices:** `main.py` uses Selenium to fetch dynamic cookies, then scrapes vegetable prices from Cargills Online.
 2. **Update Google Sheets:** The script updates a Google Sheet with the latest prices, timestamps, and price per kg.
-3. **Analyze & Email:** A Google Apps Script (`googleSheets_email_code.js`) runs in the Sheet to analyze trends and send a daily summary email to customers.
+3. **Analyse & Email:** A Google Apps Script (`googleSheets_email_code.js`) (which I have included here for completion) runs in the Sheet to analyse trends and send a daily summary email to customers.
 
 ## Requirements
 
