@@ -52,7 +52,3 @@ pip install -r requirements.txt
 
 - Credentials are handled securely and never committed to version control.
 - This public version censors any sensitive or proprietary logic.
-
-## License
-
-This project is for educational and informational use. Please respect the terms of service of Cargills Online and Google APIs.
